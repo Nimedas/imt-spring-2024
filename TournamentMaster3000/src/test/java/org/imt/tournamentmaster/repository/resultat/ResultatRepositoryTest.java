@@ -51,7 +51,7 @@ public class ResultatRepositoryTest {
 
         // assert
         Assertions.assertNotNull(resultats);
-        Assertions.assertEquals(1, resultats.size());
+        Assertions.assertEquals(2, resultats.size());
     }
 
 }
